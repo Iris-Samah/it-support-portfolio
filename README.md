@@ -103,7 +103,6 @@ I welcome opportunities to learn, contribute, and grow within a professional IT 
 ## Project Documentation and Samples
 
 ### Project Documentation
-### Project Documentation
 
 - [Project 1 – Windows Troubleshooting](./01%20Windows%20Troubleshooting.docx)
 - [Project 2 – Network Troubleshooting](./02%20Network%20Troubleshooting.docx)
@@ -115,4 +114,4 @@ I welcome opportunities to learn, contribute, and grow within a professional IT 
 - [Project 8 – Final Help Desk Simulation](./08%20Final%20Help%20Desk%20Simulation.docx)
 
 ### Excel Sample
-- [Help Desk Ticket Management Workbook](./project5_Helpdesk_Ticket_Management.Xlsx)
+- [Help Desk Ticket Management Workbook](./project5_Helpdesk_Ticket_Management.xlsx)
