@@ -99,3 +99,18 @@ I welcome opportunities to learn, contribute, and grow within a professional IT 
 ---
 
 **Thank you for visiting my portfolio!**
+
+## Project Documentation and Samples
+
+### Project Documentation
+- [Project 1 – Windows Troubleshooting](./01 Windows Troubleshooting.docx)
+- [Project 2 – Network Troubleshooting](./02 Network Troubleshooting.docx)
+- [Project 3 – Software Troubleshooting](./03 Software Troubleshooting.docx)
+- [Project 4 – User Account Management](./04 User Account Management.docx)
+- [Project 5 – Help Desk Ticket Management](./05 Help Desk Ticket Management.docx)
+- [Project 6 – Microsoft Office Troubleshooting](./06 Microsoft Office Troubleshooting.docx)
+- [Project 7 – Printer and Peripheral Troubleshooting](./07 Printer And Peripheral Troubleshooting.docx)
+- [Project 8 – Final Help Desk Simulation](./08 Final Help Desk Simulation.docx)
+
+### Excel Sample
+- [Help Desk Ticket Management Workbook](./project5_Helpdesk_Ticket_Management.Xlsx)
