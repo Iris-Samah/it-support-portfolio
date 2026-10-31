@@ -103,14 +103,16 @@ I welcome opportunities to learn, contribute, and grow within a professional IT 
 ## Project Documentation and Samples
 
 ### Project Documentation
-- [Project 1 – Windows Troubleshooting](./01 Windows Troubleshooting.docx)
-- [Project 2 – Network Troubleshooting](./02 Network Troubleshooting.docx)
-- [Project 3 – Software Troubleshooting](./03 Software Troubleshooting.docx)
-- [Project 4 – User Account Management](./04 User Account Management.docx)
-- [Project 5 – Help Desk Ticket Management](./05 Help Desk Ticket Management.docx)
-- [Project 6 – Microsoft Office Troubleshooting](./06 Microsoft Office Troubleshooting.docx)
-- [Project 7 – Printer and Peripheral Troubleshooting](./07 Printer And Peripheral Troubleshooting.docx)
-- [Project 8 – Final Help Desk Simulation](./08 Final Help Desk Simulation.docx)
+### Project Documentation
+
+- [Project 1 – Windows Troubleshooting](./01%20Windows%20Troubleshooting.docx)
+- [Project 2 – Network Troubleshooting](./02%20Network%20Troubleshooting.docx)
+- [Project 3 – Software Troubleshooting](./03%20Software%20Troubleshooting.docx)
+- [Project 4 – User Account Management](./04%20User%20Account%20Management.docx)
+- [Project 5 – Help Desk Ticket Management](./05%20Help%20Desk%20Ticket%20Management.docx)
+- [Project 6 – Microsoft Office Troubleshooting](./06%20Microsoft%20Office%20Troubleshooting.docx)
+- [Project 7 – Printer and Peripheral Troubleshooting](./07%20Printer%20And%20Peripheral%20Troubleshooting.docx)
+- [Project 8 – Final Help Desk Simulation](./08%20Final%20Help%20Desk%20Simulation.docx)
 
 ### Excel Sample
 - [Help Desk Ticket Management Workbook](./project5_Helpdesk_Ticket_Management.Xlsx)
